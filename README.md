@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science & Engineering student<br>💻 Interested in Software Development, Data Science, and AI/ML<br>🧠 Love building real-world projects and learning how systems work end-to-end<br>🛠️ Tech I work with: Python, Java, SQL, Flask, ML & NLP tools<br>📂 Projects include AI-powered applications, web systems, and data-driven solutions<br>🌱 Currently improving problem-solving and exploring advanced AI concepts<br>🎨 Fun fact: When I’m not coding, I enjoy drawing, sketching, and cooking
+🎓 Final-year Computer Science & Engineering student<br>😄 Pronouns: She/Her<br>💻 Interested in Software Development and AI/ML<br>🧠 Passionate about building real-world projects and learning how systems work end-to-end<br>🛠️ Tech I work with: Python, Java, SQL, Flask, ML & NLP tools<br>📂 Projects include AI-powered applications, web systems, and data-driven solutions<br>systems<br>🌱Focused on writing clean, efficient code and developing intelligent applications<br>🎨 Fun fact: When I’m not coding, I enjoy drawing, sketching, and cooking
 
 
 ## 🌐 Socials:
